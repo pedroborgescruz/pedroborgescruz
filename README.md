@@ -13,5 +13,5 @@ I am Pedro Borges, a Front-End Developer and Graphic Designer pursuing my Bachel
 
 💬 Ask me about **Python, Graphic Design, Coding Games, Language Revitalization through Technology, Web Development**.
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.linkedin.com/in/pedroborgespc/)
 
