@@ -12,3 +12,6 @@ I am Pedro Borges, a Front-End Developer and Graphic Designer pursuing my Bachel
 🔭 I’m currently working on **expanding a Transducer for Nheengatu, an endangered language spoken in the North of Brazil by around 14,000 people.**
 
 💬 Ask me about **Python, Graphic Design, Coding Games, Language Revitalization through Technology, Web Development**.
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
