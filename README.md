@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 ### About me
 I am Pedro Borges, a Front-End Developer and Graphic Designer pursuing my Bachelors in Computer Science & Linguistics.
