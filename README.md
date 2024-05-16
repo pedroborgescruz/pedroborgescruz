@@ -9,4 +9,4 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroborgespc/)
 [![behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/pedrocruz44)
 
-"You (('pedroborgescruz', UpdateUserBackgroundTask(user_id='pedroborgescruz', access_token='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', private_access=False, start_date=None, end_date=None))) are now authenticated!"
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/pedroborgescruz/langs)](https://githubtrends.io)
