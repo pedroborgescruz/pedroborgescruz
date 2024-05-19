@@ -10,4 +10,4 @@
 [![behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/pedrocruz44)
 
 [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroborgescruz)](https://github.com/pedroborgescruz/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroborgescruz)](https://github.com/pedroborgescruz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroborgescruz&layout=compact)](https://github.com/pedroborgescruz/github-readme-stats)
