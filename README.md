@@ -9,3 +9,5 @@
 
 - I enjoy contributing to Open Source Projects and am enthusiastic about learning new technology. 
 - How to reach me: pedroborgespc@gmail.com or pcruz1@swarthmore.edu.
+
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroborgescruz)](https://github.com/pedroborgescruz/github-readme-stats)
