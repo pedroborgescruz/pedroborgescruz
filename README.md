@@ -1,10 +1,8 @@
 ## Hi there!
 
-## 🐍 Contribution Snake
-
-![github contribution snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/gh-pages/github-snake.svg)
-![github contribution snake dark](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/gh-pages/github-snake-dark.svg)
-![github contribution ocean](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/gh-pages/ocean.gif)
+![github contribution snake](https://raw.githubusercontent.com/pedroborgescruz/pedroborgescruz/gh-pages/github-snake.svg)
+![github contribution snake dark](https://raw.githubusercontent.com/pedroborgescruz/pedroborgescruz/gh-pages/github-snake-dark.svg)
+![github contribution ocean](https://raw.githubusercontent.com/pedroborgescruz/pedroborgescruz/gh-pages/ocean.gif)
 
 ### About me
 
