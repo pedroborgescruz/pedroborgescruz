@@ -18,5 +18,7 @@
 * Outside of studying, building, and programming, I enjoy writing, going to the movies (and rating films on Letterboxd), and spending quality time with friends.
 * I enjoy contributing to Open Source Projects and am enthusiastic about learning new technology.
 * How to reach me: pedroborgespc@gmail.com or pcruz1@swarthmore.edu.
+  
 <br>
+
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroborgescruz&show_icons=true&theme=transparent)
