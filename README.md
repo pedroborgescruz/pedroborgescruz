@@ -1,4 +1,4 @@
-## Hi there!
+## Hi there! 👋
 
 <div style="text-align: center;"> 
   <picture>
