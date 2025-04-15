@@ -13,7 +13,7 @@
 
 ### About me
 
-* Born and raised in São Paulo, Brazil, I'm a senior studying Computer Science at Swarthmore College with passionate about problem-solving.
+* Born and raised in São Paulo, Brazil, I'm a senior studying Computer Science at Swarthmore College passionate about problem-solving.
 * I first fell in love with CS because of my love for mathematics, but I ultimately stuck around because of how technology can change people's lives.
 * Outside of studying, building, and programming, I enjoy writing, going to the movies (and rating films on Letterboxd), and spending quality time with friends.
 * I enjoy contributing to Open Source Projects and am enthusiastic about learning new technology.
