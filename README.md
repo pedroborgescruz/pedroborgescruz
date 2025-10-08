@@ -13,11 +13,11 @@
 
 ### About me
 
-* Born and raised in São Paulo, Brazil, I'm a senior studying Computer Science at Swarthmore College passionate about problem-solving.
-* I first fell in love with CS because of my love for mathematics, but I ultimately stuck around because of how technology can change people's lives.
+* Born and raised in São Paulo, Brazil, I studied Computer Science at Swarthmore College.
+* I first fell in love with CS because of my love for mathematics, but I ultimately stuck around because of a passion for problem-solving.
 * Outside of studying, building, and programming, I enjoy writing, going to the movies (and rating films on Letterboxd), and spending quality time with friends.
 * I enjoy contributing to Open Source Projects and am enthusiastic about learning new technology.
-* How to reach me: pedroborgespc@gmail.com or pcruz1@swarthmore.edu.
+* How to reach me: pedroborgespc@gmail.com.
   
 <br>
 
