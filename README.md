@@ -10,15 +10,3 @@
       style="display: block; margin: auto;">
   </picture>
 </div>
-
-### About me
-
-* Born and raised in São Paulo, Brazil, I studied Computer Science at Swarthmore College.
-* I first fell in love with CS because of my love for mathematics, but I ultimately stuck around because of a passion for problem-solving.
-* Outside of studying, building, and programming, I enjoy writing, going to the movies (and rating films on Letterboxd), and spending quality time with friends.
-* I enjoy contributing to Open Source Projects and am enthusiastic about learning new technology.
-* How to reach me: pedroborgespc@gmail.com.
-  
-<br>
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroborgescruz&show_icons=true&theme=transparent)
